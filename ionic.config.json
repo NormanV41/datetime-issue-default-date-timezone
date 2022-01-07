@@ -1,0 +1,7 @@
+{
+  "name": "datetime-issue-default-date-timezone",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

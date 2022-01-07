@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "datetime-issue-default-date-timezone",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
